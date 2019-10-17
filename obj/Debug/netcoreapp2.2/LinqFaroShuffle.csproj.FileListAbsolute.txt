@@ -1,0 +1,11 @@
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\LinqFaroShuffle\bin\Debug\netcoreapp2.2\LinqFaroShuffle.deps.json
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\LinqFaroShuffle\bin\Debug\netcoreapp2.2\LinqFaroShuffle.runtimeconfig.json
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\LinqFaroShuffle\bin\Debug\netcoreapp2.2\LinqFaroShuffle.runtimeconfig.dev.json
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\LinqFaroShuffle\bin\Debug\netcoreapp2.2\LinqFaroShuffle.dll
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\LinqFaroShuffle\bin\Debug\netcoreapp2.2\LinqFaroShuffle.pdb
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\LinqFaroShuffle\obj\Debug\netcoreapp2.2\LinqFaroShuffle.csprojAssemblyReference.cache
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\LinqFaroShuffle\obj\Debug\netcoreapp2.2\LinqFaroShuffle.csproj.CoreCompileInputs.cache
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\LinqFaroShuffle\obj\Debug\netcoreapp2.2\LinqFaroShuffle.AssemblyInfoInputs.cache
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\LinqFaroShuffle\obj\Debug\netcoreapp2.2\LinqFaroShuffle.AssemblyInfo.cs
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\LinqFaroShuffle\obj\Debug\netcoreapp2.2\LinqFaroShuffle.dll
+C:\Users\E-ACERVANTESBR\Desktop\CND-course\LinqFaroShuffle\obj\Debug\netcoreapp2.2\LinqFaroShuffle.pdb
